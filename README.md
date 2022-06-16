@@ -1,5 +1,7 @@
 # dip_rocket_project1
 
+The project code is uploaded in github : https://github.com/CIRCLE2096/dip_rocket_project1.git
+
 SVDfilterd data extract from PALA is stored in IQ folder.
 
 If the IQ folder is empty, you should first download data and place it there.
